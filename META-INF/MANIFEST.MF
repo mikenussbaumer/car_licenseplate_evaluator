@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.github.mikenussbaumer.car_licenseplate_evaluator.Main
+
